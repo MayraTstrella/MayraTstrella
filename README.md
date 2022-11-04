@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayra</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 - 🌱 I’m currently learning **JavaScript and Angular**
 
-- 💬 Ask me about **Java - Html5 - Css - Spring Boot**
+- 💬 Ask me about **Java - Html5 - Css - Spring Boot - MySql**
 
 - 📫 How to reach me **mayra.be7686@gmail.com**
 
